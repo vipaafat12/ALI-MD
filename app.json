@@ -1,8 +1,8 @@
 {
-  "name": "vip-AAFAT",
+  "name": "VIP-AAFAT",
   "description": "Javascript WhatsApp bot made by ali",
   "logo": "https://files.catbox.moe/6ku0eo.jpg",
-  "keywords": ["विप-आफत"],
+  "keywords": ["VIP-AAFAT"],
   "success_url": "/",
 
     "stack": "container",
@@ -30,7 +30,7 @@
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
       "value": "public"
-      "value": "private"
+    
     },
         
     "REJECT_MSG": {
