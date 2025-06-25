@@ -1,14 +1,14 @@
 {
-  "name": "ALI-MD",
+  "name": "vip-AAFAT",
   "description": "Javascript WhatsApp bot made by ali",
   "logo": "https://files.catbox.moe/6ku0eo.jpg",
-  "keywords": ["ALI-MD"],
+  "keywords": ["विप-आफत"],
   "success_url": "/",
 
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "ALI-MD~qZ10CSZK#KoLPWsLwJl_oGg8Eh1jQOkJxfVDdCR8mDM3zfzvmHSw",
       "required": true,
       "value": ""
     },  
@@ -30,7 +30,7 @@
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
       "value": "public"
-      
+      "value": "private"
     },
         
     "REJECT_MSG": {
